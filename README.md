@@ -1,14 +1,13 @@
 # Maxence Degni-Portfolio
 
-
-
 👋 Bonjour et bienvenue sur mon portfolio.
 Je suis Maxence Degni Data Analyst, Data Scientist en progression constante et passionné de Mathématiques & Statistiques.
 
 ## À propos de moi
----
 
 Je travail actuellement dans le domaine de la loi des normes du travail en transition vers la **science des données**, avec une solide formation en **mathématiques, statistiques et analytique d'affaires**. Je m'intéresse particulièrement à l'analyse exploratoire, la modélisation prédictive, la visualisation de données et la transformation de données complexes en **insights utiles à la prise de décision**.
+
+---
 
 ## Formation
 
@@ -17,8 +16,9 @@ Je travail actuellement dans le domaine de la loi des normes du travail en trans
 📐 **Majeur en mathématique** — Université de Montréal  
 📚 **Examens SOA (society of actuaries):** P, FM et VEE
 
-# 🚀 Projets
 ---
+
+# 🚀 Projets
 
 ## 🏦 Risque de défaut bancaire
 
@@ -78,8 +78,9 @@ Tableau de bord interactif permettant de suivre et d'analyser les **performances
 
 🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/dashboard-excel-performances)
 
-# 📫 Me contacter
 ---
+
+# 📫 Me contacter
 
 💼 [LinkedIn](https://www.linkedin.com/in/VOTRE_PROFIL)
 
