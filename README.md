@@ -5,7 +5,7 @@ je suis Maxence Degni Data Analyst, Data Scientist et passionné de Mathématiqu
 
 ## À propos de moi
 
-Je suis un agent des normes du travail en transition vers la **science des données**, avec une solide formation en **mathématiques, statistiques et analytique d'affaires**.Je m'intéresse particulièrement à l'analyse exploratoire, la modélisation prédictive, la visualisation de données et la transformation de données complexes en **insights utiles à la prise de décision**.
+Je suis un agent des normes du travail en transition vers la **science des données**, avec une solide formation en **mathématiques, statistiques et analytique d'affaires**. Je m'intéresse particulièrement à l'analyse exploratoire, la modélisation prédictive, la visualisation de données et la transformation de données complexes en **insights utiles à la prise de décision**.
 
 🎓 **Baccalauréat ès sciences** — Université de Montréal  
 🎓 **Certificat en exploitation et valorisation de données** — HEC Montréal  
