@@ -1,6 +1,6 @@
 # Maxence Degni-Portfolio
 
----
+
 
 👋 Bonjour et bienvenue sur mon portfolio.
 Je suis Maxence Degni Data Analyst, Data Scientist en progression constante et passionné de Mathématiques & Statistiques.
