@@ -10,6 +10,8 @@ Je suis Maxence Degni Data Analyst, Data Scientist en progression constante et p
 
 Je travail actuellement dans le domaine de la loi des normes du travail en transition vers la **science des données**, avec une solide formation en **mathématiques, statistiques et analytique d'affaires**. Je m'intéresse particulièrement à l'analyse exploratoire, la modélisation prédictive, la visualisation de données et la transformation de données complexes en **insights utiles à la prise de décision**.
 
+## Formation
+
 🎓 **Baccalauréat ès sciences** — Université de Montréal  
 🎓 **Certificat en exploitation et valorisation de données** — HEC Montréal  
 📐 **Majeur en mathématique** — Université de Montréal  
