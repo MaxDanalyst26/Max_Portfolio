@@ -4,4 +4,4 @@ description: "Data Analyst | Data Scientist"
 show_downloads: false
 theme: jekyll-theme-minimal
 lang: fr
-remote_theme: pages-themes/minimal@v0.2.0
+stylesheet: /assets/css/custom.css
