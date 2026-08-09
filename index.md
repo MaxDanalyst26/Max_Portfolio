@@ -1,27 +1,20 @@
----
-layout: default
----
+# Maxence Degni-Portfolio
 
-# 👋 Bonjour, je suis Maxence Degni
+👋 Bonjour et bienvenue sur mon portfolio.
+Je suis Maxence Degni Data Analyst, Data Scientist en progression constante et passionné de Mathématiques & Statistiques.
 
-### Data Analyst | Data Scientist en développement
+## À propos de moi
 
-Professionnel en transition vers la **science des données**, avec une solide formation en **mathématiques, statistiques et analytique d'affaires**.
-
-Je transforme des données complexes en **insights utiles à la prise de décision**, à travers l'analyse, la modélisation et la visualisation.
+Je travaille actuellement dans le domaine de la loi des normes du travail en transition vers la **science des données**, avec une solide formation en **mathématiques, statistiques et analytique d'affaires**. Je m'intéresse particulièrement à l'analyse exploratoire, la modélisation prédictive, la visualisation de données et la transformation de données complexes en **insights utiles à la prise de décision**.
 
 ---
 
-## 🛠️ Compétences
+## Formation
 
-**Data & BI**  
-`Power BI` · `Excel` · `DAX` · `Power Query` · `Tableau`
-
-**Programmation & analyse**  
-`Python` · `SQL` · `R` · `SAS` · `SPSS`
-
-**Data Science**  
-`Machine Learning` · `Statistiques` · `EDA` · `Modélisation prédictive`
+🎓 **Baccalauréat ès sciences** — Université de Montréal  
+🎓 **Certificat en exploitation et valorisation de données** — HEC Montréal  
+📐 **Majeur en mathématique** — Université de Montréal  
+📚 **Examens SOA (society of actuaries):** P, FM et VEE
 
 ---
 
@@ -29,61 +22,60 @@ Je transforme des données complexes en **insights utiles à la prise de décisi
 
 ## 🏦 Risque de défaut bancaire
 
-Modélisation du risque de défaut avec **régression logistique** et **Random Forest**.
+Modélisation prédictive du risque de défaut à l'aide de **Random Forest** et de **régression logistique**.
 
-`Python` · `Machine Learning` · `Statistiques`
+- Sélection et validation des variables
+- Comparaison des modèles
+- Évaluation avec ROC, AUC et précision
+- Interprétation des résultats
 
-🔗 [Voir le projet](https://github.com/VOTRE_USERNAME/risque-defaut-bancaire)
+**Technologies :** `Python` · `Machine Learning` · `Statistiques`
+
+🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/risque-defaut-bancaire)
 
 ---
 
-## 🚗 Accidents graves — Power BI
+## 🚗 Analyse des accidents graves — Power BI
 
-Dashboard interactif pour identifier les **zones et périodes à risque** et soutenir la prévention routière.
+Tableau de bord interactif visant à identifier les **zones et périodes à risque** et à soutenir la prévention routière.
 
-`Power BI` · `DAX` · `Data Visualization`
+- Nettoyage et structuration des données
+- Modélisation des données et mesures DAX
+- Visualisation des facteurs de risque
+- Formulation de recommandations stratégiques
 
-🔗 [Voir le projet](https://github.com/VOTRE_USERNAME/analyse-accidents-powerbi)
+**Technologies :** `Power BI` · `DAX` · `Visualisation de données`
+
+🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-accidents-powerbi)
 
 ---
 
 ## 🏠 Analyse des prix Airbnb
 
-Analyse exploratoire et **comparaison de trois modèles prédictifs** pour comprendre les facteurs influençant les prix.
+Analyse des facteurs influençant les prix des locations Airbnb et comparaison de **trois modèles prédictifs**.
 
-`Python` · `Pandas` · `Machine Learning`
+- Analyse descriptive et exploratoire
+- Préparation et transformation des données
+- Développement et comparaison de modèles
+- Sélection du meilleur modèle et recommandations
 
-🔗 [Voir le projet](https://github.com/VOTRE_USERNAME/analyse-airbnb)
+**Technologies :** `Python` · `Pandas` · `EDA` · `Machine Learning` · `Visualisation de données`
 
----
-
-## 📊 Performances régionales — Excel
-
-Dashboard interactif pour suivre et analyser les **performances régionales**.
-
-`Excel` · `Power Pivot` · `Tableaux croisés dynamiques`
-
-🔗 [Voir le projet](https://github.com/VOTRE_USERNAME/dashboard-excel-performances)
+🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-airbnb)
 
 ---
 
-# 🎓 Formation
+## 📊 Dashboard Excel — Performances régionales
 
-**Baccalauréat ès sciences — Université de Montréal** · 2025  
-**Certificat en exploitation et valorisation de données — HEC Montréal** · 2025  
-**Majeur en mathématique — Université de Montréal** · 2022  
-**Examens SOA :** P · FM · VEE
+Tableau de bord interactif permettant de suivre et d'analyser les **performances régionales**.
+
+- Nettoyage et validation des données
+- Tableaux croisés dynamiques
+- Segments et graphiques dynamiques
+- Analyse des tendances et recommandations
+
+**Technologies :** `Excel` · `Power Pivot` · `Tableaux croisés dynamiques` · `visualisation de données`
+
+🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/dashboard-excel-performances)
 
 ---
-
-# 🎯 Objectif
-
-Évoluer vers un poste de **Data Analyst, BI Analyst ou Junior Data Scientist**, en combinant mathématiques, statistiques, programmation et analytique.
-
----
-
-# 📫 Contact
-
-💼 [LinkedIn](https://www.linkedin.com/in/VOTRE_PROFIL)
-
-💻 [GitHub](https://github.com/MaxDanalyst26)
