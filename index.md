@@ -79,3 +79,9 @@ Tableau de bord interactif permettant de suivre et d'analyser les **performances
 🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/dashboard-excel-performances)
 
 ---
+
+# 📫 Contact
+
+💼 [LinkedIn](LIEN_LINKEDIN)
+
+💻 [GitHub](https://github.com/MaxDanalyst26)
