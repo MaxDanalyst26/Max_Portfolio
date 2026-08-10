@@ -20,6 +20,8 @@ Je travaille actuellement dans le domaine de la loi des normes du travail en tra
 
 # 🚀 Projets analyste de données
 
+---
+
 ## 🏦 Suivre et visualiser les performances des ventes avec un tableau de bord(Excel)
 
 Création de tableau de bord interactif pour analyser les KPI clés tels que les ventes les marges et les performances régionales.
@@ -29,7 +31,7 @@ Création de tableau de bord interactif pour analyser les KPI clés tels que les
 - Création de graphique dynamiques et tableau de bord interactif
 - Interprétation des résultats
 
-**Technologies :** `Python` · `Machine Learning` · `Statistiques`
+**Technologies :** `Ms Excel` . `Visualisation de données`
 
 🔗 [Voir le projet sur GitHub](https://github.com/MaxDanalyst26/Analyse-de-performance-des-ventes-Excel)
 
