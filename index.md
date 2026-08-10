@@ -18,20 +18,20 @@ Je travaille actuellement dans le domaine de la loi des normes du travail en tra
 
 ---
 
-# 🚀 Projets
+# 🚀 Projets analyste de données
 
-## 🏦 Risque de défaut bancaire
+## 🏦 Suivre et visualiser les performances des ventes avec un tableau de bord(Excel)
 
-Modélisation prédictive du risque de défaut à l'aide de **Random Forest** et de **régression logistique**.
+Création de tableau de bord interactif pour analyser les KPI clés tels que les ventes les marges et les performances régionales.
 
-- Sélection et validation des variables
-- Comparaison des modèles
-- Évaluation avec ROC, AUC et précision
+- Nettoyage et organisation des données
+- Création de tableaux croisés dynamiques avec des segments pour une navigation facile
+- Création de graphique dynamiques et tableau de bord interactif
 - Interprétation des résultats
 
 **Technologies :** `Python` · `Machine Learning` · `Statistiques`
 
-🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/risque-defaut-bancaire)
+🔗 [Voir le projet sur GitHub](https://github.com/MaxDanalyst26/Analyse-de-performance-des-ventes-Excel)
 
 ---
 
