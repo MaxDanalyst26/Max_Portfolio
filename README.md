@@ -86,6 +86,6 @@ Tableau de bord interactif permettant de suivre et d'analyser les **performances
 
 # 📫 Me contacter
 
-💼 [LinkedIn](https://www.linkedin.com/in/VOTRE_PROFIL)
+💼 [LinkedIn](https://www.linkedin.com/in/maxence-degni-3840532b7)
 
-💻 [GitHub](https://github.com/VOTRE_USERNAME)
+💻 [GitHub](https://github.com/MaxDanalyst26)
