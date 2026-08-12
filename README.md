@@ -22,9 +22,9 @@ Je travaille actuellement dans le domaine de la loi des normes du travail en tra
 
 ---
 
-## 🏦 Suivre et visualiser les performances des ventes avec un tableau de bord(Excel)
+## 📊 Dashboard Excel — Performances régionales
 
-Création de tableau de bord interactif pour analyser les KPI clés tels que les ventes les marges et les performances régionales.
+Création de tableau de bord interactif pour analyser les KPI clés tels que les ventes les marges ainsi que les performances régionales.
 
 - Nettoyage et organisation des données
 - Création de tableaux croisés dynamiques avec des segments pour une navigation facile
@@ -37,50 +37,29 @@ Création de tableau de bord interactif pour analyser les KPI clés tels que les
 
 ---
 
-## 🚗 Analyse des accidents graves — Power BI
+## 🚗 Facteurs influençant les performances commerciales (à venir)
 
-Tableau de bord interactif visant à identifier les **zones et périodes à risque** et à soutenir la prévention routière.
+Analyser les relations quali-quali , quali-quanti et quanti-quanti pour détecter les facteurs clés.
 
-- Nettoyage et structuration des données
-- Modélisation des données et mesures DAX
-- Visualisation des facteurs de risque
-- Formulation de recommandations stratégiques
-
-**Technologies :** `Power BI` · `DAX` · `Visualisation de données`
+**Technologies :** `Python` · 
 
 🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-accidents-powerbi)
 
 ---
 
-## 🏠 Analyse des prix Airbnb
+## 🚗 Analyse des écarts de performance entre départements (à venir)
 
-Analyse des facteurs influençant les prix des locations Airbnb et comparaison de **trois modèles prédictifs**.
-
-- Analyse descriptive et exploratoire
-- Préparation et transformation des données
-- Développement et comparaison de modèles
-- Sélection du meilleur modèle et recommandations
-
-**Technologies :** `Python` · `Pandas` · `EDA` · `Machine Learning` · `Visualisation de données`
-
-🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-airbnb)
+Valider les différences observées entre départements en appliquant des tests statistiques adaptés.
 
 ---
 
 # 🚀 Projets scientifique de données
 
-## 📊 Dashboard Excel — Performances régionales
+## 📊 Modélisation prédictive — Risque de dépôt bancaire (à venir)
 
-Tableau de bord interactif permettant de suivre et d'analyser les **performances régionales**.
+## 📊 Modélisation prédictive — Risque de crédit élevé (à venir)
 
-- Nettoyage et validation des données
-- Tableaux croisés dynamiques
-- Segments et graphiques dynamiques
-- Analyse des tendances et recommandations
-
-**Technologies :** `Excel` · `Power Pivot` · `Tableaux croisés dynamiques` · `visualisation de données`
-
-🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/dashboard-excel-performances)
+## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
 
 ---
 
