@@ -43,8 +43,6 @@ Analyser les relations quali-quali , quali-quanti et quanti-quanti pour détecte
 
 **Technologies :** `Python` · 
 
-🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-accidents-powerbi)
-
 ---
 
 ## 🚗 Analyse des écarts de performance entre départements (à venir)
