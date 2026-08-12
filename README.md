@@ -49,6 +49,8 @@ Analyser les relations quali-quali , quali-quanti et quanti-quanti pour détecte
 
 Valider les différences observées entre départements en appliquant des tests statistiques adaptés.
 
+**Technologies :** `Python` · 
+
 ---
 
 # 🚀 Projets scientifique de données
