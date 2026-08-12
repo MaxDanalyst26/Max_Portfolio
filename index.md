@@ -49,7 +49,6 @@ nalyser les relations quali-quali , quali-quanti et quanti-quanti pour détecter
 
 Valider les différences observées entre départements en appliquant des tests statistiques adaptés.
 
-
 **Technologies :** `Python` ·
 
 🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-airbnb)
@@ -60,9 +59,21 @@ Valider les différences observées entre départements en appliquant des tests 
 
 ## 📊 Modélisation prédictive — Risque de dépôt bancaire (à venir)
 
+Quels sont les clients à risque de faire un défaut sur leur prêts?
+
+**Technologies :** `Python` ·
+
 ## 📊 Modélisation prédictive — Risque de crédit élevé (à venir)
 
+Quels sont les clients qui présentent un risque de crédit élevé?
+
+**Technologies :** `Python` ·
+
 ## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
+
+Quels sont les clients qui risquent de se désabonner?
+
+**Technologies :** `Python` ·
 
 ---
 
