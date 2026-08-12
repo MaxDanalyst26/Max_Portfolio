@@ -57,9 +57,21 @@ Valider les différences observées entre départements en appliquant des tests 
 
 ## 📊 Modélisation prédictive — Risque de dépôt bancaire (à venir)
 
+Quels sont les clients à risque de faire un défaut sur leur prêts?
+
+**Technologies :** `Python` ·
+
 ## 📊 Modélisation prédictive — Risque de crédit élevé (à venir)
 
+Quels sont les clients qui présentent un risque de crédit élevé?
+
+**Technologies :** `Python` ·
+
 ## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
+
+Quels sont les clients qui risquent de se désabonner?
+
+**Technologies :** `Python` ·
 
 ---
 
