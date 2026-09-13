@@ -55,6 +55,15 @@ Valider les différences observées entre départements en appliquant des tests 
 
 # 🚀 Projets scientifique de données
 
+## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
+
+Quels sont les clients qui risquent de se désabonner?
+
+**Technologies :** `Python` ·
+
+
+---
+
 ## 📊 Modélisation prédictive — Risque de dépôt bancaire (à venir)
 
 Quels sont les clients à risque de faire un défaut sur leur prêts?
@@ -67,13 +76,6 @@ Quels sont les clients qui présentent un risque de crédit élevé?
 
 **Technologies :** `Python` ·
 
-## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
-
-Quels sont les clients qui risquent de se désabonner?
-
-**Technologies :** `Python` ·
-
----
 
 # 📫 Me contacter
 
