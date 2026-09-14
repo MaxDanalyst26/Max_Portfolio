@@ -58,10 +58,10 @@ Valider les différences observées entre départements en appliquant des tests 
 ## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
 
 Quels sont les clients qui risquent de se désabonner?
+
+**Technologies :** `Python` `Scikit-learn` ·
+
 🔗 [Voir le projet sur GitHub](https://github.com/MaxDanalyst26/Churn-Project)
-
-**Technologies :** `Python` ·
-
 
 ---
 
