@@ -58,6 +58,16 @@ Valider les différences observées entre départements en appliquant des tests 
 ## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
 
 Quels sont les clients qui risquent de se désabonner?
+Ce projet a pour objectif de prédire quels
+clients risquent de se désabonner de leurs services en fonction de leurs
+comportements et caractéristiques.
+
+-Nettoyage des données
+-Partage des données en partie entrainement et test
+-Construction de modèles
+-Évaluation de la performance des modèles
+-Estimation du revenu à risque
+
 
 **Technologies :** `Python` `Scikit-learn` ·
 
