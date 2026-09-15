@@ -37,7 +37,7 @@ Création de tableau de bord interactif pour analyser les KPI clés tels que les
 
 # 🚀 Projets scientifique de données
 
-## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn)
+## 📊 Modélisation prédictive — Risque de désabonnement de clients.
 
 Quels sont les clients qui risquent de se désabonner?
 Ce projet a pour objectif de prédire quels clients risquent de se désabonner de leurs services en fonction de leurs
