@@ -69,7 +69,7 @@ comportements et caractéristiques.
 - Estimation du revenu à risque
 
 
-**Technologies :** `Python` `Scikit-learn` `Seaborn` ·
+**Technologies :** `Python` . `ScikitLearn` . `Seaborn` ·
 
 🔗 [Voir le projet sur GitHub](https://github.com/MaxDanalyst26/Churn-Project)
 
