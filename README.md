@@ -55,7 +55,7 @@ Valider les différences observées entre départements en appliquant des tests 
 
 # 🚀 Projets scientifique de données
 
-## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn)
+## 📊 Modélisation prédictive — Risque de désabonnement de clients
 
 Quels sont les clients qui risquent de se désabonner?
 Ce projet a pour objectif de prédire quels
