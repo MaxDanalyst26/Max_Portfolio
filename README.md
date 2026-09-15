@@ -55,7 +55,7 @@ Valider les différences observées entre départements en appliquant des tests 
 
 # 🚀 Projets scientifique de données
 
-## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn) (à venir)
+## 📊 Modélisation prédictive — Risque de désabonnement de clients(churn)
 
 Quels sont les clients qui risquent de se désabonner?
 Ce projet a pour objectif de prédire quels
@@ -69,7 +69,7 @@ comportements et caractéristiques.
 - Estimation du revenu à risque
 
 
-**Technologies :** `Python` `Scikit-learn` ·
+**Technologies :** `Python` `Scikit-learn` `Seaborn` ·
 
 🔗 [Voir le projet sur GitHub](https://github.com/MaxDanalyst26/Churn-Project)
 
