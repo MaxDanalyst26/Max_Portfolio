@@ -35,25 +35,7 @@ Création de tableau de bord interactif pour analyser les KPI clés tels que les
 
 ---
 
-## 🚗 Facteurs influençant les performances commerciales (à venir)
 
-nalyser les relations quali-quali , quali-quanti et quanti-quanti pour détecter les facteurs clés.
-
-**Technologies :** `Python` ·
-
-🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-accidents-powerbi)
-
----
-
-## 🚗 Analyse des écarts de performance entre départements (à venir)
-
-Valider les différences observées entre départements en appliquant des tests statistiques adaptés.
-
-**Technologies :** `Python` `Seaborn` `ScikitLearn`
-
-🔗 [Voir le projet sur GitHub](https://github.com/VOTRE_USERNAME/analyse-airbnb)
-
----
 
 # 🚀 Projets scientifique de données
 
@@ -61,21 +43,11 @@ Valider les différences observées entre départements en appliquant des tests 
 
 Quels sont les clients qui risquent de se désabonner?
 
-**Technologies :** `Python` ·
+**Technologies :** `Python` · `Seaborn` · `ScikitLearn` ·
 
 🔗 [Voir le projet sur GitHub](https://github.com/MaxDanalyst26/Churn-Project)
 
-## 📊 Modélisation prédictive — Risque de crédit élevé (à venir)
 
-Quels sont les clients qui présentent un risque de crédit élevé?
-
-**Technologies :** `Python` ·
-
-## 📊 Modélisation prédictive — Risque de dépôt bancaire (à venir)
-
-Quels sont les clients à risque de faire un défaut sur leur prêts?
-
-**Technologies :** `Python` ·
 ---
 
 # 📫 Contact
